@@ -1,7 +1,6 @@
 # Simple Blog Feed App Project
 
-
-## Contact Me / My Profiles
+## ✅ Contact Me / My Profiles
 ### <p align="center">Hi there, I'm Hassan Amr 👋</p>
 <p align="center">
   <a href="mailto:hassan.amr.soliman@gmail.com" target="_blank">
@@ -22,7 +21,7 @@
 </p>
 
 
-## About the App
+## ✅ About the App
 <b>➡️ Simple Blog Feed App is a Native Android App that I built to show and apply the concepts of building apps that have</b>
 - Clean Architecture
 - Lifecycle Management
@@ -45,7 +44,18 @@
 - Add / Edit / Delete Posts
 
 
-## System Block Diagram and Project Files Structure
+## ✅ System Block Diagram and Project Files Structure
+<b>➡️ In order to build and structure my project correctly and effeciently, I read, studied and followed the official documentation by google for</b>
+- App Architecture: https://developer.android.com/topic/architecture
+- UI Layer: https://developer.android.com/topic/architecture/ui-layer
+- Data Layer: https://developer.android.com/topic/architecture/data-layer
+- View binding: https://developer.android.com/topic/libraries/view-binding
+- ViewModel: https://developer.android.com/topic/libraries/architecture/viewmodel
+
+<b>➡️ Also I checked the source code for some popular open-source projects that use the same approach</b>
+- Jetpack MVVM Best Practice: https://github.com/KunMinX/Jetpack-MVVM-Best-Practice
+- android mvvm architecture: https://github.com/janishar/android-mvvm-architecture
+
 <table>
   <tr>
     <th><b>System Block Diagram</b></th>
@@ -58,7 +68,7 @@
 </table>
 
 
-## Libraries Used
+## ✅ Libraries Used
 
 - **Lifecycle:** https://developer.android.com/jetpack/androidx/releases/lifecycle
 ```
@@ -85,7 +95,7 @@ implementation 'com.github.bumptech.glide:glide:4.13.0'
 ```
 
 
-## App Screenshots
+## ✅ App Screenshots
 <table>
   <tr>
     <td><img src="https://github.com/hassan-amr/Simple-Blog-Feed/blob/master/images/sbf_screenshot_1.png"></td>
